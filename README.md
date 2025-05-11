@@ -21,9 +21,6 @@
 Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging. 
 
 
-
-# 🌟 [Purchase on Gumroad](https://gum.co/GetFaceMask)
- 
 ## :hourglass: Project Demo
 :movie_camera: [YouTube Demo Link](https://youtu.be/wYwW7gAYyxw)
 
@@ -125,17 +122,6 @@ command
 ```
 $ streamlit run app.py 
 ```
-## Images
-
-<p align="center">
-  <img src="Readme_images/1.PNG">
-</p>
-<p align="center">Upload Images</p>
-
-<p align="center">
-  <img src="Readme_images/2.PNG">
-</p>
-<p align="center">Results</p>
 
 
 
